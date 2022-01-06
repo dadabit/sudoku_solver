@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 # sudoku solver in python
+# created 2022.1.6 by Sikai Lu
 
 info_text = '''
 ██╗    ██╗███████╗██╗      ██████╗ ██████╗ ███╗   ███╗███████╗    ████████╗ ██████╗ 
