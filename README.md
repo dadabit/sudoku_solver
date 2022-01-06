@@ -1,14 +1,25 @@
 # sudoku_solver
 A sudoku solver
 
-Simply Running:
+## What is Sudoku?
+Sudoku (Japanese: 数独, romanized: sūdoku). originally called Number Place) is a logic-based, combinatorial number-placement puzzle.
+more on https://en.wikipedia.org/wiki/Sudoku
+
+### Dependency:
+* python3
+* shell
+* macos or linux
+  
+---
+
+### Simply Running:
 
 ```
 python3 sudoku.py puzzle.sudoku
 python3 sudoku.py -info
 ```
 
-Installing:
+### Installing:
 
 ```
 ./install.sh
