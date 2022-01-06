@@ -1,13 +1,17 @@
 # sudoku_solver
 A sudoku solver
 
+Simply Running:
+
 ```
 python3 sudoku.py puzzle.sudoku
+python3 sudoku.py -info
+```
 
-or
+Installing:
 
-chmod u+x sudoku.py
-sudo cp sudoku.py /usr/local/bin/sudoku
+```
+./install.sh
 sudoku puzzle.sudoku
 sudoku -info
 ```
