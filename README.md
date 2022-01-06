@@ -18,9 +18,9 @@ sudoku -info
 
 ---
 
-## .sudoku file formatting:
+## .sudoku file formatting
 
-all space are ignored, just keep in mind that a there is 9 character in a row and 9 character in a column.* *
+all space are ignored, just keep in mind that a there is 9 character in a row and 9 character in a column.
 **sample file** : puzzle.sudoku
 
 ```
