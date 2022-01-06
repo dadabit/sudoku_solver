@@ -6,6 +6,7 @@ Simply Running:
 ```
 python3 sudoku.py puzzle.sudoku
 python3 sudoku.py -info
+python3 sudoku.py -license
 ```
 
 Installing:
@@ -14,6 +15,7 @@ Installing:
 ./install.sh
 sudoku puzzle.sudoku
 sudoku -info
+sudoku -license
 ```
 
 ---
