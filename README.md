@@ -17,6 +17,7 @@ more on https://en.wikipedia.org/wiki/Sudoku
 ```
 python3 sudoku.py puzzle.sudoku
 python3 sudoku.py -info
+python3 sudoku.py -license
 ```
 
 ### Installing:
@@ -25,6 +26,7 @@ python3 sudoku.py -info
 ./install.sh
 sudoku puzzle.sudoku
 sudoku -info
+sudoku -license
 ```
 
 ---
