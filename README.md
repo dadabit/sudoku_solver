@@ -21,7 +21,8 @@ sudoku -info
 ## .sudoku file formatting
 
 all space are ignored, just keep in mind that a there is 9 character in a row and 9 character in a column.
-**sample file** : puzzle.sudoku
+
+#### sample file: puzzle.sudoku
 
 ```
 9 0 0 7 4 0 0 0 0
